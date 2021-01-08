@@ -1,0 +1,22 @@
+[
+	{
+        "locale": "en",
+        "key": "business-rule-error",
+        "trans": "the request has violate one or more business rules"
+    },
+	{
+        "locale": "en",
+        "key": "business-rule",
+        "trans": "business rule"
+    },
+    {
+        "locale": "en",
+        "key": "already-exists-error",
+        "trans": "{0} is already exists"
+    },
+	{
+        "locale": "en",
+        "key": "incorrect-password-error",
+        "trans": "incorrect password"
+    }
+]
